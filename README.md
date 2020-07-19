@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="./images/Avatar.svg" alt="Avatar" style="width: 100%; height: 100%;"/>
+<img src="https://raw.githubusercontent.com/wuhxxx/wuhxxx/master/images/Avatar.svg" alt="Avatar" style="width: 100%; height: 100%;"/>
 
 <!--
 **wuhxxx/wuhxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
