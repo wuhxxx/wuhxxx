@@ -1,7 +1,7 @@
-## Hi there 👋
+<!-- ## Hi there 👋
 <div align="center">
   <img src="https://raw.githubusercontent.com/wuhxxx/wuhxxx/master/images/Avatar.svg" alt="Avatar" />
-</div>
+</div> -->
 
 <!--
 **wuhxxx/wuhxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
